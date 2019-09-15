@@ -1,4 +1,4 @@
-package com.manager.password;
+package com.manager.password.splash.splash;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -18,6 +18,9 @@ import android.view.View;
 import android.view.ViewManager;
 import android.view.ViewParent;
 import android.view.animation.OvershootInterpolator;
+
+import com.manager.password.BuildConfig;
+import com.manager.password.R;
 
 
 /**
